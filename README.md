@@ -37,8 +37,8 @@ This project focuses on detecting six different emotions from text data. The pro
 ## Installation
 ```bash
 # Clone the repository
-git clone https://github.com/username/emotion-detection.git
-cd emotion-detection
+git clone https://github.com/username/emotion-detection-nlp.git
+cd emotion-detection-nlp
 
 # Install required dependencies
 pip install -r requirements.txt
