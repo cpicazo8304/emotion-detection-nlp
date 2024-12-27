@@ -18,6 +18,7 @@ This project focuses on detecting six different emotions from text data. The pro
    - Train a Logistic Regression classifier to detect emotions.
    - Evaluate the model on validation data.
    - Evaluate the model on the testing data.
+   - See `emotion-detection-regression-model.ipynb` for detailed implementation.
 
 2. **Fine-Tune BERT Model:**
    - Load a pretrained BERT model.
